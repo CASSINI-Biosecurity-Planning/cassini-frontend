@@ -39,7 +39,7 @@ const redCircle = new CircleStyle({
 export const finfishLayer = new VectorLayer({
     source: finfishSource,
     style: new Style({
-        image: blueCircle,
+        image: redCircle,
     })
 });
 
